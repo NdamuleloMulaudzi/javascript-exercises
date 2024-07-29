@@ -1,4 +1,5 @@
-const removeFromArray = function() {
+const removeFromArray = function(array,...args) {
+    let arrayStorage = [array]
 };
 
 // Do not edit below this line
